@@ -56,3 +56,18 @@ body{
     box-shadow:5px 5px 10px -2px rgb(168, 212, 166);
     padding:11px 31px;
 }
+.About{
+    height: 800px;
+    background-color: rgb(110, 130, 76);
+}
+.container-about{
+    background-color: rgb(59, 75, 32);
+    width:50%;
+    margin-left:25%;
+    text-align: center;
+    height:100%;
+    padding-top: 50px 20px;
+}
+.container-about img{
+    height:200px;
+}
